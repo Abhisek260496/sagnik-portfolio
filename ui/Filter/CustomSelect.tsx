@@ -37,7 +37,7 @@ const CustomSelectWrapper = styled(Select)`
     }
   }
 `;
-interface CustomSelectProps extends SelectProps {}
+interface CustomSelectProps {}
 const CustomSelect: React.FC<CustomSelectProps & SelectProps> = ({
   ...props
 }) => {
@@ -60,11 +60,6 @@ const CustomSelect: React.FC<CustomSelectProps & SelectProps> = ({
       // className={props.className}
       {...props}
     >
-      {/* {dataset.map((name) => (
-        <MenuItem key={name} value={name} className="menu_item">
-          {name}
-        </MenuItem>
-      ))} */}
       {props.children}
     </CustomSelectWrapper>
   );
