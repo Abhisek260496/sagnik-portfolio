@@ -223,7 +223,7 @@ const Footer = () => {
             <List>
               <ListItem disablePadding>
                 <PhoneIcon />
-                <Link href="tel:+91-6290435205">+6290435205</Link>
+                <Link href="tel:+916290435205">+91 6290435205</Link>
               </ListItem>
               <ListItem disablePadding>
                 <MailIcon />
