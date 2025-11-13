@@ -31,7 +31,7 @@ export default function Header() {
                 variant="contained"
                 color="primary"
                 endIcon={<UpArrIcon />}
-                href="mailto:avishek.rakshit98@gmail.com"
+                href="mailto:sagnikbanerjee1998@gmail.com"
               >
                 Contact
               </CustomButtonPrimary>

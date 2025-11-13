@@ -9,21 +9,21 @@ import assest from "../assest";
 export const cardMock = [
   {
     img: assest.project1,
-    head: "Amped",
+    head: "Superior Fence",
     sub: "Next Js , Redux toolkit, React Query Description: This is an CMS website",
-    linkToProject: "https://ampedapp.co/"
+    linkToProject: "https://www.superiorfenceandrail.com/"
   },
   {
     img: assest.project2,
-    head: "Hava",
+    head: "Ganesh Consumer",
     sub: "Next Js , Redux toolkit, React Query, GSAP",
-    linkToProject: "https://hava.com.co/"
+    linkToProject: "https://ganeshconsumer.com/"
   },
   {
     img: assest.project3,
-    head: "Patientir",
+    head: "Quote Green",
     sub: "Next Js , Redux toolkit, React Query, MongoDB",
-    linkToProject: "https://patientir-dev.dedicateddevelopers.us/"
+    linkToProject: "https://quote-green.com"
   }
 ];
 export const skillList = [

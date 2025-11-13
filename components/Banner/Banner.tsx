@@ -24,7 +24,7 @@ const Banner = () => {
                   variant="contained"
                   color="primary"
                   endIcon={<UpArrIcon />}
-                  href="mailto:avishek.rakshit98@gmail.com"
+                  href="mailto:sagnikbanerjee1998@gmail.com"
                 >
                   Get in touch
                 </CustomButtonPrimary>
